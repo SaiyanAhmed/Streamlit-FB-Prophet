@@ -10,7 +10,7 @@ from datetime import date
 
 # Set page title and icon
 st.set_page_config(
-    page_title="Stock Predictor",
+    page_title="Stock Predictor 📈",
     page_icon="chart_with_upwards_trend",
 )
 
