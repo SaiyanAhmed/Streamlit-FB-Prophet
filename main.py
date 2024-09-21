@@ -10,12 +10,12 @@ from datetime import date
 
 # Set page title and icon
 st.set_page_config(
-    page_title="Stock Predictor 📈",
-    page_icon="chart_with_upwards_trend",
+    page_title="Stock Predictor",
+    page_icon=":chart_with_upwards_trend:",
 )
 
 # Add header to the app
-st.header("Stock Predictor")
+st.header("Stock Predictor :chart_with_upwards_trend:")
 st.divider()
 
 # Define start and end dates for stock data
