@@ -90,7 +90,7 @@ st.toast('Your model is ready!', icon='🎉')
 # Load the stock data for the selected stock
 df = load_data(select_stock)
 
-st.subheader("Raw Data")
+st.subheader("Current Raw Data")
 st.dataframe(df.iloc[::-1], hide_index=True)
 
 # Function to plot the raw stock data (Open and Close prices)
