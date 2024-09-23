@@ -22,8 +22,8 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/stock-predictor-app.git
-cd stock-predictor-app
+git clone https://github.com/SaiyanAhmed/Streamlit-FB-Prophet.git
+cd Streamlit-FB-Prophet
 ```
 ### Install the Dependencies
 
@@ -64,9 +64,9 @@ http://localhost:8501
 If you would like to connect with me, feel free to check out my website or follow me on social media:
 
 - [Website](https://www.sakiful.com/)
-- [LinkedIn](https://www.linkedin.com/in/sakiful/)
-- [GitHub](https://github.com/sakiful)
-- [Twitter](https://twitter.com/sakiful)
+- [LinkedIn](https://www.linkedin.com/in/sakiful-ahmed-saiyan-42097a152/)
+- [GitHub](https://github.com/SaiyanAhmed)
+- [Instagram](https://www.instagram.com/saiyan_ahmed/)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.

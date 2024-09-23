@@ -50,17 +50,17 @@ with st.sidebar:
         )
     with col2:
         st.markdown(
-            '<a href="https://www.linkedin.com/in/sakiful/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>',
+            '<a href="https://www.linkedin.com/in/sakiful-ahmed-saiyan-42097a152/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>',
             unsafe_allow_html=True
         )
     with col3:
         st.markdown(
-            '<a href="https://github.com/sakiful" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>',
+            '<a href="https://github.com/SaiyanAhmed" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"></a>',
             unsafe_allow_html=True
         )
     with col4:
         st.markdown(
-            '<a href="https://twitter.com/sakiful" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30"></a>',
+            '<a href="https://x.com/AhmedShyan"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30"></a>',
             unsafe_allow_html=True
         )
 
