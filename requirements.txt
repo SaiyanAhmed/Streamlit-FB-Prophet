@@ -5,3 +5,4 @@ prophet
 pandas
 numpy==1.26.4
 python==3.12.5
+pip==24.2
